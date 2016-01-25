@@ -157,3 +157,16 @@ body {
     width: 42rem;
   }
 }
+
+/* ADDITIONAL STYLES */
+.cover a {
+  color: #CE8C1D;
+}
+
+p.lead a.btn {
+  color: #000;
+}
+
+.cover a:hover {
+  text-decoration: underline;
+}
